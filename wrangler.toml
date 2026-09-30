@@ -8,6 +8,4 @@ WEBDAV_PUBLIC_READ = "0"
 # (production/preview), NOT hard-coded here, so a deploy cannot override it.
 # Empty/missing SITES_HOST = static sites stay off.
 
-[[r2_buckets]]
-binding = "BUCKET"
-bucket_name = "webdav"
+
